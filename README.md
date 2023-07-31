@@ -1,4 +1,4 @@
-WhatsGram - A Real-Time Chat App
+#WhatsGram - A Real-Time Chat App
 
 Table of Contents
 
